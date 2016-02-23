@@ -26,8 +26,8 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/kactivitymanagerd.git
 Package: kactivitymanagerd
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: kactivities (<< 5.18.0+git20160222)
-Replaces: kactivities (<< 5.18.0+git20160222)
+Breaks: kactivities
+Replaces: kactivities
 Description: System service to manage user's activities
  System service to manage user's activities, track the usage patterns
  etc.
