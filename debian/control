@@ -31,15 +31,3 @@ Replaces: kactivities (<< 5.20~)
 Description: System service to manage user's activities
  System service to manage user's activities, track the usage patterns
  etc.
-
-Package: kactivitymanagerd-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: kactivitymanagerd (= ${binary:Version}), ${misc:Depends}
-Recommends: qtbase5-dbg
-Description: System service to manage user's activities
- System service to manage user's activities, track the usage patterns
- etc.
- .
- This package contains the debugging symbols.
