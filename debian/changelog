@@ -1,4 +1,4 @@
-kactivitymanagerd (5.6.0-1~) UNRELEASED; urgency=medium
+kactivitymanagerd (5.6.2-1~) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * Initial package
@@ -6,4 +6,7 @@ kactivitymanagerd (5.6.0-1~) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Add missing depend to libboost.
 
- -- Jonathan Riddell <jr@jriddell.org>  Thu, 18 Feb 2016 17:09:37 +0000
+  [ Maximiliano Curia ]
+  * New upstream release (5.6.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 06 Apr 2016 11:43:14 +0200
