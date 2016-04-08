@@ -1,4 +1,6 @@
-kactivitymanagerd (5.6.2-1~) UNRELEASED; urgency=medium
+kactivitymanagerd (5.6.2-2~~1.gbpc7fc00) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c7fc00df386401bae193b9938f989cdf790e40e3 **
 
   [ Jonathan Riddell ]
   * Initial package
@@ -9,5 +11,6 @@ kactivitymanagerd (5.6.2-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release (5.6.2).
   * Bump Standards-Version to 3.9.7, no changes needed.
+  * Force installing in debian/tmp
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 06 Apr 2016 11:43:14 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Apr 2016 14:52:22 +0200
