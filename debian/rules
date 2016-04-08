@@ -2,3 +2,6 @@
 # -*- makefile -*-
 
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
+
+override_dh_auto_install:
+	$(overridden_command) --destdir=debian/tmp
