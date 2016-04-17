@@ -1,6 +1,6 @@
-kactivitymanagerd (5.6.2-2~~1.gbpc7fc00) UNRELEASED; urgency=medium
+kactivitymanagerd (5.6.2-2~~2.gbp2d669f) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c7fc00df386401bae193b9938f989cdf790e40e3 **
+  ** SNAPSHOT build @2d669f851d49d7702b9a11c2e4d0c4430090f589 **
 
   [ Jonathan Riddell ]
   * Initial package
@@ -12,5 +12,9 @@ kactivitymanagerd (5.6.2-2~~1.gbpc7fc00) UNRELEASED; urgency=medium
   * New upstream release (5.6.2).
   * Bump Standards-Version to 3.9.7, no changes needed.
   * Force installing in debian/tmp
+  * Add lintian override for the installed plugin
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 08 Apr 2016 14:52:22 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 17 Apr 2016 17:26:14 +0200
