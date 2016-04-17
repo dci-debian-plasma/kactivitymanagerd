@@ -1,0 +1,1 @@
+kactivitymanagerd: postinst-must-call-ldconfig usr/lib/*/libkactivitymanagerd_plugin.so
