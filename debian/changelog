@@ -1,6 +1,6 @@
-kactivitymanagerd (5.6.2-2~~3.gbpb2be11) UNRELEASED; urgency=medium
+kactivitymanagerd (5.6.3-1~1.gbpbb7b1b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @b2be11f50f970161f6b7f7540dd9df3e4bc7bee5 **
+  ** SNAPSHOT build @bb7b1b2bf01d77bdf7987ca94ee837f9fd25d15a **
 
   [ Jonathan Riddell ]
   * Initial package
@@ -14,8 +14,9 @@ kactivitymanagerd (5.6.2-2~~3.gbpb2be11) UNRELEASED; urgency=medium
   * Force installing in debian/tmp
   * Add lintian override for the installed plugin
   * Add missing breaks/replaces against libkactivities-bin reagarding /usr/bin/kactivitymanagerd
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 18 Apr 2016 08:26:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 19 Apr 2016 16:26:11 +0200
