@@ -12,6 +12,7 @@ kactivitymanagerd (5.6.4-1) experimental; urgency=medium
   * Force installing in debian/tmp
   * Add lintian override for the installed plugin
   * Add missing breaks/replaces against libkactivities-bin reagarding /usr/bin/kactivitymanagerd
+  * Update lintian override for libkactivitymanagerd_plugin.so
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
