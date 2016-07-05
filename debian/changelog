@@ -1,3 +1,11 @@
+kactivitymanagerd (5.7.0-1~1.gbp103839) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @10383936ab49544e6156092ce213eaa81ae01460 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 05 Jul 2016 16:26:10 +0200
+
 kactivitymanagerd (5.6.4-2) unstable; urgency=medium
 
   * Update lintian override for libkactivitymanagerd_plugin.so
