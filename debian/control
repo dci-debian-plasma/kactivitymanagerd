@@ -25,7 +25,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/kactivitymanagerd.git
 
 Package: kactivitymanagerd
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}, libqt5sql5-sqlite
 Breaks: kactivities (<< 5.20~), libkactivities-bin
 Replaces: kactivities (<< 5.20~), libkactivities-bin
 Description: System service to manage user's activities
