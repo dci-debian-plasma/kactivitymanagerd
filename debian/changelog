@@ -1,3 +1,12 @@
+kactivitymanagerd (5.7.0-2~1.gbpbc225f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @bc225f627d94c0f99a4df3470ce5f789994ba7f4 **
+
+  * Force dependency in the sqlite database driver.
+    Thanks to Éter for reporting (Closes: 830536)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 09 Jul 2016 13:26:20 +0200
+
 kactivitymanagerd (5.7.0-1) unstable; urgency=medium
 
   * New upstream release.
