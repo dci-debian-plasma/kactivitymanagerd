@@ -1,3 +1,9 @@
+kactivitymanagerd (5.7.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Jul 2016 13:45:58 +0000
+
 kactivitymanagerd (5.7.1-0neon) xenial; urgency=medium
 
   * New release
