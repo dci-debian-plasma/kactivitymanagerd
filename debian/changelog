@@ -1,13 +1,14 @@
-kactivitymanagerd (5.7.4-1~1.gbp9d70bd) UNRELEASED; urgency=medium
+kactivitymanagerd (5.7.4-1~2.gbp1430fd) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @9d70bd8fa19f87f49e842ffb3ddc1e4c15919844 **
+  ** SNAPSHOT build @1430fdf6373ef40bd8172dd2d756e717a410cba6 **
 
   * Force dependency in the sqlite database driver.
     Thanks to Éter for reporting (Closes: 830536)
   * UNRELEASED
   * UNRELEASED
+  * Bump group breaks (5.7)
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 24 Aug 2016 22:26:09 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 26 Aug 2016 11:26:13 +0200
 
 kactivitymanagerd (5.7.0-1) unstable; urgency=medium
 
