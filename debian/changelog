@@ -1,11 +1,9 @@
-kactivitymanagerd (5.8.0-1~2.gbpf82a13) UNRELEASED; urgency=medium
+kactivitymanagerd (5.8.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @f82a13288d7ae0b46619c10a7424587d739bbe83 **
+  * New upstream release (5.8.0)
+  * Bump group breaks (5.8)
 
-  * UNRELEASED
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 05 Oct 2016 17:26:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 14:01:35 +0200
 
 kactivitymanagerd (5.7.4-1) unstable; urgency=medium
 
