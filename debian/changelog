@@ -11,7 +11,7 @@ kactivitymanagerd (5.8.0-1) unstable; urgency=medium
   * New upstream release (5.8.0)
   * Bump group breaks (5.8)
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 07 Oct 2016 14:01:35 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 16 Oct 2016 22:54:44 +0200
 
 kactivitymanagerd (5.7.4-1) unstable; urgency=medium
 
