@@ -1,3 +1,11 @@
+kactivitymanagerd (5.8.2-1~1.gbpda7944) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @da794425371941284219a9ee2b36f7b20ddffc37 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 16:26:29 +0200
+
 kactivitymanagerd (5.8.0-1) unstable; urgency=medium
 
   * New upstream release (5.8.0)
