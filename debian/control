@@ -36,7 +36,9 @@ Package: kactivitymanagerd-dbg
 Section: debug
 Priority: extra
 Architecture: any
-Depends: kactivitymanagerd (= ${binary:Version}), ${misc:Depends}
+Depends: kactivitymanagerd (= ${binary:Version}),
+         libqt5sql5-sqlite,
+         ${misc:Depends}
 Recommends: qtbase5-dbg
 Description: System service to manage user's activities
  System service to manage user's activities, track the usage patterns
