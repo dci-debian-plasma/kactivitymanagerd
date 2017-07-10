@@ -28,8 +28,8 @@ Architecture: any
 Depends: libqt5sql5-sqlite, ${misc:Depends}, ${shlibs:Depends}
 Breaks: kactivities (<< 5.20~),
         libkactivities-bin,
-        plasma-desktop (<< 4:5.8),
-        plasma-workspace (<< 4:5.8)
+        plasma-desktop (<< 4:5.10),
+        plasma-workspace (<< 4:5.10)
 Replaces: kactivities (<< 5.20~), libkactivities-bin
 Description: System service to manage user's activities
  System service to manage user's activities, track the usage patterns
