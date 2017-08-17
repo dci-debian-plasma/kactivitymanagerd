@@ -17,7 +17,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5windowsystem-dev (>= 5.18.0~),
                libkf5xmlgui-dev (>= 5.18.0~),
                pkg-kde-tools (>= 0.15.18~),
-               qtbase5-dev (>= 5.4)
+               qtbase5-dev (>= 5.4),
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/kde/workspace/kactivitymanagerd
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/kactivitymanagerd.git
@@ -29,7 +29,7 @@ Depends: libqt5sql5-sqlite, ${misc:Depends}, ${shlibs:Depends}
 Breaks: kactivities (<< 5.20~),
         libkactivities-bin,
         plasma-desktop (<< 4:5.10),
-        plasma-workspace (<< 4:5.10)
+        plasma-workspace (<< 4:5.10),
 Replaces: kactivities (<< 5.20~), libkactivities-bin
 Description: System service to manage user's activities
  System service to manage user's activities, track the usage patterns
