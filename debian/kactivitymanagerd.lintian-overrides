@@ -1,3 +1,4 @@
-kactivitymanagerd: postinst-must-call-ldconfig usr/lib/x86_64-linux-gnu/libkactivitymanagerd_plugin.so
+kactivitymanagerd: postinst-must-call-ldconfig usr/lib/*/libkactivitymanagerd_plugin.so
+kactivitymanagerd: package-must-activate-ldconfig-trigger usr/lib/*/libkactivitymanagerd_plugin.so
 kactivitymanagerd: package-name-doesnt-match-sonames libkactivitymanagerd-plugin
-kactivitymanagerd: shlib-without-versioned-soname usr/lib/x86_64-linux-gnu/libkactivitymanagerd_plugin.so libkactivitymanagerd_plugin.so
+kactivitymanagerd: shlib-without-versioned-soname usr/lib/*/libkactivitymanagerd_plugin.so libkactivitymanagerd_plugin.so
